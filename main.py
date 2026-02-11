@@ -1,3 +1,4 @@
+# Nomes: Camila Gomes Barbosa e Pedro Lucas Carvalho Mendes
 import time
 import re
 from avl import AVL
