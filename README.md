@@ -1,3 +1,4 @@
+Camila Gomes Barbosa e Pedro Lucas Carvalho Mendes
 # Índice Remissivo com Árvore AVL
 
 Este projeto automatiza a criação de um índice remissivo a partir de um arquivo de texto. Ele identifica as palavras, registra em quais linhas aparecem e organiza tudo em uma Árvore AVL para garantir que a busca e a inserção sejam sempre rápidas, mesmo com textos grandes.
