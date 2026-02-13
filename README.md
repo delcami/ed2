@@ -9,7 +9,7 @@ A lógica do programa segue três passos simples:
 
 **Processamento:** Usamos Regex para extrair apenas palavras (removendo pontuação) e as inserimos na árvore em letras minúsculas.
 
-**Balanceamento:** A cada nova palavra, a árvore verifica se ficou "torta". Se o peso de um lado for muito maior que o outro, ela executa rotações automáticas para se manter equilibrada (O(\log n)).
+**Balanceamento:** A cada nova palavra, a árvore verifica se ficou "torta". Se o peso de um lado for muito maior que o outro, ela executa rotações automáticas para se manter equilibrada (O(log n)).
 
 #  Estrutura do Código:
 
